@@ -4,6 +4,9 @@ title: "SLAMF8-marked macrophage and HSC transcriptomic analysis in human MASLD"
 type: software
 version: "1.0.0"
 date-released: "2026-09-29"
+doi: "10.5281/zenodo.23042100"
+url: "https://doi.org/10.5281/zenodo.23042100"
+repository-code: "https://github.com/zbwcc00/SLAMF8_MASLD_transcriptomics"
 license: MIT
 authors:
   - family-names: Zheng

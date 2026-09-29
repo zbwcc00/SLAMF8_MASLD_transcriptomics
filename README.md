@@ -24,7 +24,7 @@ The repository contains no new patient recruitment and no redistributed raw huma
 ## Quick start
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/zbwcc00/SLAMF8_MASLD_transcriptomics.git
 cd SLAMF8_MASLD_transcriptomics
 python -m venv .venv
 # Windows: .venv\Scripts\activate
@@ -41,7 +41,7 @@ The included Source Data and Supplementary Tables permit inspection of all repor
 
 ## Availability
 
-This release is prepared for GitHub and Zenodo. After the Zenodo DOI is reserved, replace `[ZENODO_DOI]` in `DATA_AND_CODE_AVAILABILITY.md`, then synchronize the DOI with the manuscript, Cover Letter and `CITATION.cff`.
+The versioned release is archived in Zenodo at https://doi.org/10.5281/zenodo.23042100 and mirrored at https://github.com/zbwcc00/SLAMF8_MASLD_transcriptomics/releases/tag/v1.0.0.
 
 ## Authors
 
