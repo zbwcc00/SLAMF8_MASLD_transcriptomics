@@ -1,0 +1,872 @@
+﻿source_file	analysis_unit	interpretation_note	gsm	patient_id	disease	subtype	n_cells	sample_id	fibrosis
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556449	CTRL_1	Control	Activated_Kupffer	21		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556449	CTRL_1	Control	Cycling_myeloid	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556449	CTRL_1	Control	Endothelial_like_macrophage_low_confidence	55		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556449	CTRL_1	Control	FCN1_VCAN_monocyte	66		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556449	CTRL_1	Control	HSC_like_macrophage_low_confidence	20		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556449	CTRL_1	Control	Kupffer	19		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556449	CTRL_1	Control	Mixed_T_macrophage_low_confidence	25		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556449	CTRL_1	Control	Resident_macrophage	1176		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556449	CTRL_1	Control	SPP1_FCN1_transition	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556449	CTRL_1	Control	TREM2_CD9_SPP1_SAMac	25		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556449	CTRL_1	Control	cDC1	8		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556450	CTRL_2	Control	Activated_Kupffer	458		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556450	CTRL_2	Control	Cycling_myeloid	5		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556450	CTRL_2	Control	Endothelial_like_macrophage_low_confidence	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556450	CTRL_2	Control	FCN1_VCAN_monocyte	57		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556450	CTRL_2	Control	HSC_like_macrophage_low_confidence	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556450	CTRL_2	Control	Kupffer	74		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556450	CTRL_2	Control	Mixed_T_macrophage_low_confidence	15		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556450	CTRL_2	Control	Resident_macrophage	3		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556450	CTRL_2	Control	SPP1_FCN1_transition	47		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556450	CTRL_2	Control	SPP1_GPNMB_macrophage	2		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556450	CTRL_2	Control	TREM2_CD9_SPP1_SAMac	80		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556450	CTRL_2	Control	cDC1	13		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556451	CTRL_3	Control	Activated_Kupffer	201		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556451	CTRL_3	Control	Cycling_myeloid	3		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556451	CTRL_3	Control	Endothelial_like_macrophage_low_confidence	3		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556451	CTRL_3	Control	FCN1_VCAN_monocyte	18		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556451	CTRL_3	Control	HSC_like_macrophage_low_confidence	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556451	CTRL_3	Control	Kupffer	94		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556451	CTRL_3	Control	Mixed_T_macrophage_low_confidence	8		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556451	CTRL_3	Control	Resident_macrophage	52		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556451	CTRL_3	Control	SPP1_FCN1_transition	17		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556451	CTRL_3	Control	SPP1_GPNMB_macrophage	15		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556451	CTRL_3	Control	TREM2_CD9_SPP1_SAMac	83		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556451	CTRL_3	Control	cDC1	7		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556452	NASH_1	NASH	Activated_Kupffer	5		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556452	NASH_1	NASH	Cycling_myeloid	3		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556452	NASH_1	NASH	Endothelial_like_macrophage_low_confidence	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556452	NASH_1	NASH	FCN1_VCAN_monocyte	19		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556452	NASH_1	NASH	HSC_like_macrophage_low_confidence	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556452	NASH_1	NASH	Kupffer	181		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556452	NASH_1	NASH	Resident_macrophage	151		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556452	NASH_1	NASH	TREM2_CD9_SPP1_SAMac	14		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556453	NASH_1	NASH	Cycling_myeloid	8		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556453	NASH_1	NASH	Endothelial_like_macrophage_low_confidence	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556453	NASH_1	NASH	FCN1_VCAN_monocyte	15		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556453	NASH_1	NASH	HSC_like_macrophage_low_confidence	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556453	NASH_1	NASH	Kupffer	128		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556453	NASH_1	NASH	Mixed_T_macrophage_low_confidence	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556453	NASH_1	NASH	Resident_macrophage	113		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556453	NASH_1	NASH	TREM2_CD9_SPP1_SAMac	9		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556454	NASH_2	NASH	Activated_Kupffer	4		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556454	NASH_2	NASH	Cycling_myeloid	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556454	NASH_2	NASH	FCN1_VCAN_monocyte	22		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556454	NASH_2	NASH	Kupffer	273		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556454	NASH_2	NASH	Mixed_T_macrophage_low_confidence	2		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556454	NASH_2	NASH	Resident_macrophage	119		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556454	NASH_2	NASH	TREM2_CD9_SPP1_SAMac	3		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556455	NASH_2	NASH	Activated_Kupffer	2		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556455	NASH_2	NASH	Cycling_myeloid	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556455	NASH_2	NASH	FCN1_VCAN_monocyte	23		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556455	NASH_2	NASH	Kupffer	295		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556455	NASH_2	NASH	Mixed_T_macrophage_low_confidence	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556455	NASH_2	NASH	Resident_macrophage	154		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556455	NASH_2	NASH	TREM2_CD9_SPP1_SAMac	8		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556456	NASH_3	NASH	FCN1_VCAN_monocyte	9		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556456	NASH_3	NASH	HSC_like_macrophage_low_confidence	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556456	NASH_3	NASH	Kupffer	47		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556456	NASH_3	NASH	Resident_macrophage	47		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556457	NASH_3	NASH	Endothelial_like_macrophage_low_confidence	2		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556457	NASH_3	NASH	FCN1_VCAN_monocyte	51		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556457	NASH_3	NASH	Kupffer	44		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556457	NASH_3	NASH	Mixed_T_macrophage_low_confidence	5		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556457	NASH_3	NASH	Resident_macrophage	174		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556457	NASH_3	NASH	TREM2_CD9_SPP1_SAMac	3		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556458	NASH_3	NASH	Activated_Kupffer	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556458	NASH_3	NASH	Endothelial_like_macrophage_low_confidence	5		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556458	NASH_3	NASH	FCN1_VCAN_monocyte	53		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556458	NASH_3	NASH	HSC_like_macrophage_low_confidence	2		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556458	NASH_3	NASH	Kupffer	97		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556458	NASH_3	NASH	Mixed_T_macrophage_low_confidence	7		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556458	NASH_3	NASH	Resident_macrophage	273		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556458	NASH_3	NASH	SPP1_FCN1_transition	2		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556458	NASH_3	NASH	SPP1_GPNMB_macrophage	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556458	NASH_3	NASH	TREM2_CD9_SPP1_SAMac	3		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556459	NASH_4	NASH	Endothelial_like_macrophage_low_confidence	3		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556459	NASH_4	NASH	FCN1_VCAN_monocyte	89		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556459	NASH_4	NASH	Kupffer	54		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556459	NASH_4	NASH	Mixed_T_macrophage_low_confidence	3		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556459	NASH_4	NASH	Resident_macrophage	115		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556460	NASH_4	NASH	Activated_Kupffer	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556460	NASH_4	NASH	Endothelial_like_macrophage_low_confidence	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556460	NASH_4	NASH	FCN1_VCAN_monocyte	30		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556460	NASH_4	NASH	Kupffer	35		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556460	NASH_4	NASH	Mixed_T_macrophage_low_confidence	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556460	NASH_4	NASH	Resident_macrophage	94		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556460	NASH_4	NASH	TREM2_CD9_SPP1_SAMac	2		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556460	NASH_4	NASH	cDC1	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556461	NASH_5	NASH	Cycling_myeloid	10		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556461	NASH_5	NASH	Endothelial_like_macrophage_low_confidence	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556461	NASH_5	NASH	FCN1_VCAN_monocyte	74		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556461	NASH_5	NASH	Kupffer	37		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556461	NASH_5	NASH	Resident_macrophage	137		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556461	NASH_5	NASH	TREM2_CD9_SPP1_SAMac	2		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556461	NASH_5	NASH	cDC1	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556462	NASH_5	NASH	Activated_Kupffer	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556462	NASH_5	NASH	Cycling_myeloid	7		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556462	NASH_5	NASH	Endothelial_like_macrophage_low_confidence	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556462	NASH_5	NASH	FCN1_VCAN_monocyte	152		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556462	NASH_5	NASH	Kupffer	48		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556462	NASH_5	NASH	Mixed_T_macrophage_low_confidence	3		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556462	NASH_5	NASH	Resident_macrophage	112		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556462	NASH_5	NASH	SPP1_GPNMB_macrophage	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556462	NASH_5	NASH	TREM2_CD9_SPP1_SAMac	15		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556462	NASH_5	NASH	cDC1	2		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556463	NASH_6	NASH	Activated_Kupffer	173		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556463	NASH_6	NASH	Cycling_myeloid	36		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556463	NASH_6	NASH	Endothelial_like_macrophage_low_confidence	64		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556463	NASH_6	NASH	FCN1_VCAN_monocyte	92		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556463	NASH_6	NASH	HSC_like_macrophage_low_confidence	12		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556463	NASH_6	NASH	Kupffer	1091		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556463	NASH_6	NASH	Mixed_T_macrophage_low_confidence	213		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556463	NASH_6	NASH	Resident_macrophage	140		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556463	NASH_6	NASH	SPP1_FCN1_transition	5		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556463	NASH_6	NASH	SPP1_GPNMB_macrophage	6		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556463	NASH_6	NASH	TREM2_CD9_SPP1_SAMac	172		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556463	NASH_6	NASH	cDC1	16		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556464	NASH_7	NASH	Activated_Kupffer	297		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556464	NASH_7	NASH	Cycling_myeloid	8		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556464	NASH_7	NASH	FCN1_VCAN_monocyte	65		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556464	NASH_7	NASH	Kupffer	56		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556464	NASH_7	NASH	Mixed_T_macrophage_low_confidence	5		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556464	NASH_7	NASH	Resident_macrophage	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556464	NASH_7	NASH	SPP1_FCN1_transition	26		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556464	NASH_7	NASH	SPP1_GPNMB_macrophage	2		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556464	NASH_7	NASH	TREM2_CD9_SPP1_SAMac	178		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556464	NASH_7	NASH	cDC1	5		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556465	NASH_8	NASH	Activated_Kupffer	6		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556465	NASH_8	NASH	Cycling_myeloid	6		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556465	NASH_8	NASH	Endothelial_like_macrophage_low_confidence	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556465	NASH_8	NASH	FCN1_VCAN_monocyte	139		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556465	NASH_8	NASH	HSC_like_macrophage_low_confidence	1		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556465	NASH_8	NASH	Kupffer	33		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556465	NASH_8	NASH	Mixed_T_macrophage_low_confidence	6		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556465	NASH_8	NASH	Resident_macrophage	36		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556465	NASH_8	NASH	SPP1_FCN1_transition	15		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556465	NASH_8	NASH	SPP1_GPNMB_macrophage	93		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556465	NASH_8	NASH	TREM2_CD9_SPP1_SAMac	208		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556466	NASH_9	NASH	Cycling_myeloid	5		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556466	NASH_9	NASH	Endothelial_like_macrophage_low_confidence	3		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556466	NASH_9	NASH	FCN1_VCAN_monocyte	87		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556466	NASH_9	NASH	HSC_like_macrophage_low_confidence	6		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556466	NASH_9	NASH	Kupffer	6		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556466	NASH_9	NASH	Mixed_T_macrophage_low_confidence	11		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556466	NASH_9	NASH	Resident_macrophage	2		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556466	NASH_9	NASH	SPP1_FCN1_transition	38		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556466	NASH_9	NASH	SPP1_GPNMB_macrophage	45		
+results/003_GSE212837_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556466	NASH_9	NASH	TREM2_CD9_SPP1_SAMac	306		
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859944		Healthy	Cycling_myeloid	3	FRPBiopsy_01_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859944		Healthy	Endothelial_contaminant	10	FRPBiopsy_01_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859944		Healthy	FCN1_VCAN_monocyte	23	FRPBiopsy_01_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859944		Healthy	Fibroblast_contaminant	3	FRPBiopsy_01_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859944		Healthy	Hepatocyte_contaminant	14	FRPBiopsy_01_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859944		Healthy	Inflammatory_macrophage	3	FRPBiopsy_01_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859944		Healthy	Kupffer	47	FRPBiopsy_01_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859944		Healthy	MARCO_HMOX1_Kupffer	18	FRPBiopsy_01_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859944		Healthy	Neutrophil	16	FRPBiopsy_01_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859944		Healthy	Resident_macrophage	169	FRPBiopsy_01_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859944		Healthy	STAB1_FOLR2_macrophage	10	FRPBiopsy_01_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859944		Healthy	TREM2_CD9_SAMac	2	FRPBiopsy_01_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859944		Healthy	T_NK_contaminant	3	FRPBiopsy_01_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859944		Healthy	cDC1	3	FRPBiopsy_01_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859944		Healthy	cDC2	13	FRPBiopsy_01_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859945		Healthy	Cycling_myeloid	4	FRPBiopsy_02_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859945		Healthy	Endothelial_contaminant	33	FRPBiopsy_02_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859945		Healthy	FCN1_VCAN_monocyte	46	FRPBiopsy_02_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859945		Healthy	Fibroblast_contaminant	7	FRPBiopsy_02_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859945		Healthy	GPNMB_TREM2_SAMac	28	FRPBiopsy_02_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859945		Healthy	Hepatocyte_contaminant	55	FRPBiopsy_02_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859945		Healthy	Inflammatory_macrophage	5	FRPBiopsy_02_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859945		Healthy	Kupffer	129	FRPBiopsy_02_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859945		Healthy	MARCO_HMOX1_Kupffer	33	FRPBiopsy_02_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859945		Healthy	Resident_macrophage	223	FRPBiopsy_02_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859945		Healthy	STAB1_FOLR2_macrophage	21	FRPBiopsy_02_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859945		Healthy	TREM2_CD9_SAMac	7	FRPBiopsy_02_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859945		Healthy	T_NK_contaminant	1	FRPBiopsy_02_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859945		Healthy	cDC1	6	FRPBiopsy_02_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859945		Healthy	cDC2	27	FRPBiopsy_02_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859946		Healthy	Cycling_myeloid	3	FRPBiopsy_03_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859946		Healthy	Endothelial_contaminant	5	FRPBiopsy_03_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859946		Healthy	FCN1_VCAN_monocyte	56	FRPBiopsy_03_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859946		Healthy	Fibroblast_contaminant	3	FRPBiopsy_03_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859946		Healthy	GPNMB_TREM2_SAMac	28	FRPBiopsy_03_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859946		Healthy	Hepatocyte_contaminant	16	FRPBiopsy_03_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859946		Healthy	Inflammatory_macrophage	1	FRPBiopsy_03_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859946		Healthy	Kupffer	45	FRPBiopsy_03_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859946		Healthy	MARCO_HMOX1_Kupffer	19	FRPBiopsy_03_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859946		Healthy	Neutrophil	2	FRPBiopsy_03_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859946		Healthy	Resident_macrophage	122	FRPBiopsy_03_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859946		Healthy	STAB1_FOLR2_macrophage	23	FRPBiopsy_03_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859946		Healthy	TREM2_CD9_SAMac	7	FRPBiopsy_03_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859946		Healthy	T_NK_contaminant	8	FRPBiopsy_03_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859946		Healthy	cDC1	8	FRPBiopsy_03_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859946		Healthy	cDC2	57	FRPBiopsy_03_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859947		Healthy	Cycling_myeloid	21	FRPBiopsy_04_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859947		Healthy	Endothelial_contaminant	26	FRPBiopsy_04_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859947		Healthy	FCN1_VCAN_monocyte	70	FRPBiopsy_04_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859947		Healthy	Fibroblast_contaminant	4	FRPBiopsy_04_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859947		Healthy	GPNMB_TREM2_SAMac	53	FRPBiopsy_04_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859947		Healthy	Hepatocyte_contaminant	54	FRPBiopsy_04_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859947		Healthy	Inflammatory_macrophage	6	FRPBiopsy_04_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859947		Healthy	Kupffer	186	FRPBiopsy_04_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859947		Healthy	MARCO_HMOX1_Kupffer	56	FRPBiopsy_04_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859947		Healthy	Neutrophil	10	FRPBiopsy_04_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859947		Healthy	Resident_macrophage	205	FRPBiopsy_04_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859947		Healthy	STAB1_FOLR2_macrophage	48	FRPBiopsy_04_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859947		Healthy	TREM2_CD9_SAMac	25	FRPBiopsy_04_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859947		Healthy	T_NK_contaminant	9	FRPBiopsy_04_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859947		Healthy	cDC1	13	FRPBiopsy_04_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859947		Healthy	cDC2	32	FRPBiopsy_04_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859948		Healthy	Cycling_myeloid	5	FRPBiopsy_05_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859948		Healthy	Endothelial_contaminant	11	FRPBiopsy_05_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859948		Healthy	FCN1_VCAN_monocyte	86	FRPBiopsy_05_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859948		Healthy	Fibroblast_contaminant	7	FRPBiopsy_05_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859948		Healthy	GPNMB_TREM2_SAMac	11	FRPBiopsy_05_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859948		Healthy	Hepatocyte_contaminant	44	FRPBiopsy_05_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859948		Healthy	Inflammatory_macrophage	5	FRPBiopsy_05_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859948		Healthy	Kupffer	185	FRPBiopsy_05_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859948		Healthy	MARCO_HMOX1_Kupffer	87	FRPBiopsy_05_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859948		Healthy	Neutrophil	8	FRPBiopsy_05_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859948		Healthy	Resident_macrophage	170	FRPBiopsy_05_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859948		Healthy	STAB1_FOLR2_macrophage	15	FRPBiopsy_05_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859948		Healthy	TREM2_CD9_SAMac	6	FRPBiopsy_05_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859948		Healthy	T_NK_contaminant	5	FRPBiopsy_05_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859948		Healthy	cDC1	10	FRPBiopsy_05_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859948		Healthy	cDC2	32	FRPBiopsy_05_Female_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859949		Healthy	Cycling_myeloid	16	FRPBiopsy_06_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859949		Healthy	Endothelial_contaminant	6	FRPBiopsy_06_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859949		Healthy	FCN1_VCAN_monocyte	76	FRPBiopsy_06_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859949		Healthy	Fibroblast_contaminant	1	FRPBiopsy_06_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859949		Healthy	GPNMB_TREM2_SAMac	12	FRPBiopsy_06_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859949		Healthy	Hepatocyte_contaminant	10	FRPBiopsy_06_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859949		Healthy	Inflammatory_macrophage	2	FRPBiopsy_06_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859949		Healthy	Kupffer	11	FRPBiopsy_06_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859949		Healthy	MARCO_HMOX1_Kupffer	6	FRPBiopsy_06_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859949		Healthy	Resident_macrophage	186	FRPBiopsy_06_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859949		Healthy	STAB1_FOLR2_macrophage	38	FRPBiopsy_06_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859949		Healthy	TREM2_CD9_SAMac	3	FRPBiopsy_06_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859949		Healthy	T_NK_contaminant	12	FRPBiopsy_06_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859949		Healthy	cDC1	10	FRPBiopsy_06_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859949		Healthy	cDC2	22	FRPBiopsy_06_Male_Healthy	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859950		MASLD	Cycling_myeloid	7	FRPBiopsy_07_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859950		MASLD	Endothelial_contaminant	13	FRPBiopsy_07_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859950		MASLD	FCN1_VCAN_monocyte	116	FRPBiopsy_07_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859950		MASLD	Fibroblast_contaminant	8	FRPBiopsy_07_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859950		MASLD	GPNMB_TREM2_SAMac	105	FRPBiopsy_07_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859950		MASLD	Hepatocyte_contaminant	18	FRPBiopsy_07_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859950		MASLD	Inflammatory_macrophage	6	FRPBiopsy_07_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859950		MASLD	Kupffer	82	FRPBiopsy_07_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859950		MASLD	MARCO_HMOX1_Kupffer	38	FRPBiopsy_07_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859950		MASLD	Neutrophil	31	FRPBiopsy_07_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859950		MASLD	Resident_macrophage	130	FRPBiopsy_07_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859950		MASLD	STAB1_FOLR2_macrophage	69	FRPBiopsy_07_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859950		MASLD	TREM2_CD9_SAMac	24	FRPBiopsy_07_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859950		MASLD	T_NK_contaminant	12	FRPBiopsy_07_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859950		MASLD	cDC1	9	FRPBiopsy_07_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859950		MASLD	cDC2	71	FRPBiopsy_07_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859951		MASLD	Cycling_myeloid	13	FRPBiopsy_08_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859951		MASLD	Endothelial_contaminant	5	FRPBiopsy_08_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859951		MASLD	FCN1_VCAN_monocyte	67	FRPBiopsy_08_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859951		MASLD	Fibroblast_contaminant	6	FRPBiopsy_08_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859951		MASLD	GPNMB_TREM2_SAMac	47	FRPBiopsy_08_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859951		MASLD	Hepatocyte_contaminant	33	FRPBiopsy_08_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859951		MASLD	Inflammatory_macrophage	6	FRPBiopsy_08_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859951		MASLD	Kupffer	77	FRPBiopsy_08_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859951		MASLD	MARCO_HMOX1_Kupffer	29	FRPBiopsy_08_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859951		MASLD	Neutrophil	4	FRPBiopsy_08_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859951		MASLD	Resident_macrophage	160	FRPBiopsy_08_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859951		MASLD	STAB1_FOLR2_macrophage	54	FRPBiopsy_08_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859951		MASLD	TREM2_CD9_SAMac	9	FRPBiopsy_08_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859951		MASLD	T_NK_contaminant	2	FRPBiopsy_08_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859951		MASLD	cDC1	6	FRPBiopsy_08_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859951		MASLD	cDC2	68	FRPBiopsy_08_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859952		MASLD	Cycling_myeloid	11	FRPBiopsy_09_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859952		MASLD	Endothelial_contaminant	15	FRPBiopsy_09_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859952		MASLD	FCN1_VCAN_monocyte	116	FRPBiopsy_09_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859952		MASLD	Fibroblast_contaminant	5	FRPBiopsy_09_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859952		MASLD	GPNMB_TREM2_SAMac	39	FRPBiopsy_09_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859952		MASLD	Hepatocyte_contaminant	30	FRPBiopsy_09_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859952		MASLD	Inflammatory_macrophage	11	FRPBiopsy_09_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859952		MASLD	Kupffer	115	FRPBiopsy_09_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859952		MASLD	MARCO_HMOX1_Kupffer	43	FRPBiopsy_09_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859952		MASLD	Neutrophil	9	FRPBiopsy_09_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859952		MASLD	Resident_macrophage	163	FRPBiopsy_09_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859952		MASLD	STAB1_FOLR2_macrophage	39	FRPBiopsy_09_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859952		MASLD	TREM2_CD9_SAMac	13	FRPBiopsy_09_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859952		MASLD	T_NK_contaminant	11	FRPBiopsy_09_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859952		MASLD	cDC1	17	FRPBiopsy_09_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859952		MASLD	cDC2	47	FRPBiopsy_09_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859953		MASLD	Cycling_myeloid	8	FRPBiopsy_10_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859953		MASLD	Endothelial_contaminant	5	FRPBiopsy_10_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859953		MASLD	FCN1_VCAN_monocyte	52	FRPBiopsy_10_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859953		MASLD	Fibroblast_contaminant	3	FRPBiopsy_10_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859953		MASLD	GPNMB_TREM2_SAMac	95	FRPBiopsy_10_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859953		MASLD	Hepatocyte_contaminant	13	FRPBiopsy_10_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859953		MASLD	Inflammatory_macrophage	2	FRPBiopsy_10_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859953		MASLD	Kupffer	81	FRPBiopsy_10_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859953		MASLD	MARCO_HMOX1_Kupffer	33	FRPBiopsy_10_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859953		MASLD	Neutrophil	13	FRPBiopsy_10_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859953		MASLD	Resident_macrophage	49	FRPBiopsy_10_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859953		MASLD	STAB1_FOLR2_macrophage	35	FRPBiopsy_10_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859953		MASLD	TREM2_CD9_SAMac	20	FRPBiopsy_10_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859953		MASLD	T_NK_contaminant	3	FRPBiopsy_10_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859953		MASLD	cDC1	9	FRPBiopsy_10_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859953		MASLD	cDC2	49	FRPBiopsy_10_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859954		MASLD	Cycling_myeloid	32	FRPBiopsy_11_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859954		MASLD	Endothelial_contaminant	5	FRPBiopsy_11_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859954		MASLD	FCN1_VCAN_monocyte	83	FRPBiopsy_11_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859954		MASLD	Fibroblast_contaminant	4	FRPBiopsy_11_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859954		MASLD	GPNMB_TREM2_SAMac	124	FRPBiopsy_11_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859954		MASLD	Hepatocyte_contaminant	31	FRPBiopsy_11_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859954		MASLD	Inflammatory_macrophage	4	FRPBiopsy_11_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859954		MASLD	Kupffer	76	FRPBiopsy_11_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859954		MASLD	MARCO_HMOX1_Kupffer	38	FRPBiopsy_11_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859954		MASLD	Neutrophil	5	FRPBiopsy_11_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859954		MASLD	Resident_macrophage	132	FRPBiopsy_11_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859954		MASLD	STAB1_FOLR2_macrophage	72	FRPBiopsy_11_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859954		MASLD	TREM2_CD9_SAMac	51	FRPBiopsy_11_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859954		MASLD	T_NK_contaminant	6	FRPBiopsy_11_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859954		MASLD	cDC1	7	FRPBiopsy_11_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859954		MASLD	cDC2	75	FRPBiopsy_11_Male_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859955		MASLD	Cycling_myeloid	3	FRPBiopsy_12_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859955		MASLD	Endothelial_contaminant	8	FRPBiopsy_12_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859955		MASLD	FCN1_VCAN_monocyte	17	FRPBiopsy_12_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859955		MASLD	Fibroblast_contaminant	2	FRPBiopsy_12_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859955		MASLD	GPNMB_TREM2_SAMac	18	FRPBiopsy_12_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859955		MASLD	Hepatocyte_contaminant	6	FRPBiopsy_12_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859955		MASLD	Inflammatory_macrophage	2	FRPBiopsy_12_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859955		MASLD	Kupffer	17	FRPBiopsy_12_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859955		MASLD	MARCO_HMOX1_Kupffer	23	FRPBiopsy_12_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859955		MASLD	Neutrophil	12	FRPBiopsy_12_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859955		MASLD	Resident_macrophage	90	FRPBiopsy_12_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859955		MASLD	STAB1_FOLR2_macrophage	11	FRPBiopsy_12_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859955		MASLD	TREM2_CD9_SAMac	3	FRPBiopsy_12_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859955		MASLD	T_NK_contaminant	3	FRPBiopsy_12_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859955		MASLD	cDC1	3	FRPBiopsy_12_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859955		MASLD	cDC2	29	FRPBiopsy_12_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859956		MASLD	Cycling_myeloid	8	FRPBiopsy_13_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859956		MASLD	Endothelial_contaminant	9	FRPBiopsy_13_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859956		MASLD	FCN1_VCAN_monocyte	138	FRPBiopsy_13_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859956		MASLD	Fibroblast_contaminant	23	FRPBiopsy_13_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859956		MASLD	GPNMB_TREM2_SAMac	69	FRPBiopsy_13_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859956		MASLD	Hepatocyte_contaminant	38	FRPBiopsy_13_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859956		MASLD	Inflammatory_macrophage	1	FRPBiopsy_13_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859956		MASLD	Kupffer	86	FRPBiopsy_13_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859956		MASLD	MARCO_HMOX1_Kupffer	47	FRPBiopsy_13_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859956		MASLD	Resident_macrophage	154	FRPBiopsy_13_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859956		MASLD	STAB1_FOLR2_macrophage	218	FRPBiopsy_13_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859956		MASLD	TREM2_CD9_SAMac	14	FRPBiopsy_13_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859956		MASLD	T_NK_contaminant	16	FRPBiopsy_13_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859956		MASLD	cDC1	10	FRPBiopsy_13_Female_MASLD	
+results/003_GSE298719_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859956		MASLD	cDC2	136	FRPBiopsy_13_Female_MASLD	
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970276		MASLD	Cycling_myeloid	8	S001	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970276		MASLD	FCGR3A_monocyte	28	S001	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970276		MASLD	FCN1_VCAN_monocyte	70	S001	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970276		MASLD	Kupffer	43	S001	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970276		MASLD	Myeloid_ambiguous	1	S001	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970276		MASLD	TREM2_CD9_SAMac	17	S001	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970276		MASLD	T_NK_contaminant	107	S001	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970276		MASLD	cDC1	29	S001	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970276		MASLD	cDC2	30	S001	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970276		MASLD	cDC2_low_quality	9	S001	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970276		MASLD	pDC	34	S001	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970277		MASLD	Cycling_myeloid	2	S002	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970277		MASLD	FCGR3A_monocyte	18	S002	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970277		MASLD	FCN1_VCAN_monocyte	11	S002	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970277		MASLD	Kupffer	15	S002	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970277		MASLD	Myeloid_ambiguous	1	S002	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970277		MASLD	TREM2_CD9_SAMac	4	S002	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970277		MASLD	T_NK_contaminant	180	S002	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970277		MASLD	cDC1	8	S002	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970277		MASLD	cDC2	13	S002	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970277		MASLD	cDC2_low_quality	5	S002	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970277		MASLD	pDC	4	S002	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970278		MASLD	Cycling_myeloid	2	S003	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970278		MASLD	FCGR3A_monocyte	8	S003	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970278		MASLD	FCN1_VCAN_monocyte	12	S003	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970278		MASLD	Kupffer	6	S003	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970278		MASLD	LAMP3_DC	2	S003	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970278		MASLD	Myeloid_ambiguous	2	S003	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970278		MASLD	TREM2_CD9_SAMac	20	S003	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970278		MASLD	T_NK_contaminant	77	S003	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970278		MASLD	cDC1	7	S003	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970278		MASLD	cDC2	8	S003	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970278		MASLD	cDC2_low_quality	2	S003	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970278		MASLD	pDC	6	S003	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970279		MASLD	FCGR3A_monocyte	4	S004	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970279		MASLD	FCN1_VCAN_monocyte	6	S004	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970279		MASLD	Kupffer	1	S004	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970279		MASLD	TREM2_CD9_SAMac	7	S004	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970279		MASLD	T_NK_contaminant	81	S004	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970279		MASLD	cDC1	1	S004	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970279		MASLD	cDC2	5	S004	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970279		MASLD	cDC2_low_quality	2	S004	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970279		MASLD	pDC	3	S004	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970280		MASLD	Cycling_myeloid	2	S005	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970280		MASLD	Endothelial_contaminant	1	S005	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970280		MASLD	FCGR3A_monocyte	18	S005	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970280		MASLD	FCN1_VCAN_monocyte	80	S005	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970280		MASLD	Kupffer	12	S005	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970280		MASLD	LAMP3_DC	1	S005	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970280		MASLD	Myeloid_ambiguous	1	S005	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970280		MASLD	TREM2_CD9_SAMac	20	S005	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970280		MASLD	T_NK_contaminant	138	S005	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970280		MASLD	cDC1	9	S005	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970280		MASLD	cDC2	32	S005	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970280		MASLD	cDC2_low_quality	11	S005	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970280		MASLD	pDC	34	S005	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970281		MASLD	Cycling_myeloid	2	S006	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970281		MASLD	Endothelial_contaminant	2	S006	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970281		MASLD	FCGR3A_monocyte	27	S006	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970281		MASLD	FCN1_VCAN_monocyte	58	S006	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970281		MASLD	Kupffer	21	S006	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970281		MASLD	Myeloid_ambiguous	1	S006	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970281		MASLD	TREM2_CD9_SAMac	10	S006	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970281		MASLD	T_NK_contaminant	165	S006	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970281		MASLD	cDC1	6	S006	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970281		MASLD	cDC2	21	S006	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970281		MASLD	cDC2_low_quality	6	S006	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970281		MASLD	pDC	4	S006	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970282		MASLD	Cycling_myeloid	5	S007	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970282		MASLD	FCGR3A_monocyte	112	S007	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970282		MASLD	FCN1_VCAN_monocyte	267	S007	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970282		MASLD	Kupffer	34	S007	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970282		MASLD	LAMP3_DC	1	S007	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970282		MASLD	Myeloid_ambiguous	3	S007	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970282		MASLD	TREM2_CD9_SAMac	30	S007	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970282		MASLD	T_NK_contaminant	265	S007	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970282		MASLD	cDC1	18	S007	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970282		MASLD	cDC2	30	S007	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970282		MASLD	cDC2_low_quality	20	S007	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970282		MASLD	pDC	16	S007	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970283		MASLD	Cycling_myeloid	1	S008	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970283		MASLD	Endothelial_contaminant	4	S008	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970283		MASLD	FCGR3A_monocyte	14	S008	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970283		MASLD	FCN1_VCAN_monocyte	47	S008	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970283		MASLD	Kupffer	36	S008	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970283		MASLD	LAMP3_DC	3	S008	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970283		MASLD	Myeloid_ambiguous	2	S008	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970283		MASLD	TREM2_CD9_SAMac	33	S008	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970283		MASLD	T_NK_contaminant	65	S008	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970283		MASLD	cDC1	14	S008	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970283		MASLD	cDC2	27	S008	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970283		MASLD	cDC2_low_quality	6	S008	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970283		MASLD	pDC	10	S008	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970284		MASLD	Cycling_myeloid	2	S009	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970284		MASLD	FCGR3A_monocyte	2	S009	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970284		MASLD	FCN1_VCAN_monocyte	7	S009	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970284		MASLD	Kupffer	3	S009	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970284		MASLD	LAMP3_DC	2	S009	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970284		MASLD	Myeloid_ambiguous	1	S009	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970284		MASLD	TREM2_CD9_SAMac	5	S009	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970284		MASLD	T_NK_contaminant	22	S009	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970284		MASLD	cDC1	3	S009	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970284		MASLD	cDC2	6	S009	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970284		MASLD	pDC	4	S009	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970285		MASLD	Cycling_myeloid	5	S010	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970285		MASLD	Endothelial_contaminant	1	S010	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970285		MASLD	FCGR3A_monocyte	27	S010	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970285		MASLD	FCN1_VCAN_monocyte	75	S010	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970285		MASLD	Kupffer	10	S010	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970285		MASLD	Myeloid_ambiguous	2	S010	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970285		MASLD	TREM2_CD9_SAMac	17	S010	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970285		MASLD	T_NK_contaminant	136	S010	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970285		MASLD	cDC1	12	S010	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970285		MASLD	cDC2	27	S010	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970285		MASLD	cDC2_low_quality	8	S010	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970285		MASLD	pDC	26	S010	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970286		MASLD	Cycling_myeloid	34	S011	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970286		MASLD	FCGR3A_monocyte	69	S011	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970286		MASLD	FCN1_VCAN_monocyte	174	S011	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970286		MASLD	Kupffer	69	S011	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970286		MASLD	LAMP3_DC	5	S011	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970286		MASLD	Myeloid_ambiguous	8	S011	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970286		MASLD	TREM2_CD9_SAMac	155	S011	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970286		MASLD	T_NK_contaminant	299	S011	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970286		MASLD	cDC1	41	S011	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970286		MASLD	cDC2	110	S011	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970286		MASLD	cDC2_low_quality	24	S011	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970286		MASLD	pDC	56	S011	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970287		MASLD	Cycling_myeloid	6	S012	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970287		MASLD	FCGR3A_monocyte	34	S012	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970287		MASLD	FCN1_VCAN_monocyte	157	S012	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970287		MASLD	Kupffer	38	S012	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970287		MASLD	LAMP3_DC	1	S012	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970287		MASLD	Myeloid_ambiguous	1	S012	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970287		MASLD	TREM2_CD9_SAMac	55	S012	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970287		MASLD	T_NK_contaminant	141	S012	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970287		MASLD	cDC1	32	S012	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970287		MASLD	cDC2	49	S012	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970287		MASLD	cDC2_low_quality	2	S012	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970287		MASLD	pDC	59	S012	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970288		MASLD	Cycling_myeloid	7	S013	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970288		MASLD	FCGR3A_monocyte	54	S013	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970288		MASLD	FCN1_VCAN_monocyte	167	S013	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970288		MASLD	Kupffer	35	S013	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970288		MASLD	LAMP3_DC	4	S013	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970288		MASLD	Myeloid_ambiguous	2	S013	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970288		MASLD	TREM2_CD9_SAMac	41	S013	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970288		MASLD	T_NK_contaminant	174	S013	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970288		MASLD	cDC1	28	S013	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970288		MASLD	cDC2	30	S013	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970288		MASLD	cDC2_low_quality	16	S013	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970288		MASLD	pDC	30	S013	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970289		MASLD	Cycling_myeloid	11	S014	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970289		MASLD	Endothelial_contaminant	4	S014	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970289		MASLD	FCGR3A_monocyte	4	S014	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970289		MASLD	FCN1_VCAN_monocyte	31	S014	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970289		MASLD	Kupffer	75	S014	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970289		MASLD	LAMP3_DC	10	S014	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970289		MASLD	TREM2_CD9_SAMac	69	S014	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970289		MASLD	T_NK_contaminant	40	S014	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970289		MASLD	cDC1	30	S014	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970289		MASLD	cDC2	137	S014	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970289		MASLD	cDC2_low_quality	36	S014	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970289		MASLD	pDC	5	S014	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970290		MASLD	Cycling_myeloid	4	S015	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970290		MASLD	Endothelial_contaminant	1	S015	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970290		MASLD	FCGR3A_monocyte	33	S015	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970290		MASLD	FCN1_VCAN_monocyte	111	S015	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970290		MASLD	Kupffer	52	S015	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970290		MASLD	LAMP3_DC	3	S015	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970290		MASLD	Myeloid_ambiguous	4	S015	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970290		MASLD	TREM2_CD9_SAMac	77	S015	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970290		MASLD	T_NK_contaminant	125	S015	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970290		MASLD	cDC1	24	S015	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970290		MASLD	cDC2	46	S015	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970290		MASLD	cDC2_low_quality	18	S015	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970290		MASLD	pDC	35	S015	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970291		MASLD	Cycling_myeloid	14	S016	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970291		MASLD	Endothelial_contaminant	1	S016	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970291		MASLD	FCGR3A_monocyte	15	S016	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970291		MASLD	FCN1_VCAN_monocyte	58	S016	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970291		MASLD	Kupffer	7	S016	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970291		MASLD	LAMP3_DC	3	S016	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970291		MASLD	Myeloid_ambiguous	2	S016	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970291		MASLD	TREM2_CD9_SAMac	21	S016	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970291		MASLD	T_NK_contaminant	58	S016	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970291		MASLD	cDC1	18	S016	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970291		MASLD	cDC2	44	S016	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970291		MASLD	cDC2_low_quality	17	S016	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970291		MASLD	pDC	31	S016	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970292		MASLD	Cycling_myeloid	4	S017	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970292		MASLD	Endothelial_contaminant	1	S017	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970292		MASLD	FCGR3A_monocyte	19	S017	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970292		MASLD	FCN1_VCAN_monocyte	81	S017	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970292		MASLD	Kupffer	10	S017	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970292		MASLD	LAMP3_DC	5	S017	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970292		MASLD	Myeloid_ambiguous	3	S017	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970292		MASLD	TREM2_CD9_SAMac	38	S017	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970292		MASLD	T_NK_contaminant	90	S017	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970292		MASLD	cDC1	11	S017	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970292		MASLD	cDC2	21	S017	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970292		MASLD	cDC2_low_quality	10	S017	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970292		MASLD	pDC	30	S017	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970293		MASLD	Cycling_myeloid	1	S018	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970293		MASLD	FCGR3A_monocyte	3	S018	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970293		MASLD	FCN1_VCAN_monocyte	6	S018	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970293		MASLD	Kupffer	3	S018	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970293		MASLD	LAMP3_DC	1	S018	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970293		MASLD	TREM2_CD9_SAMac	4	S018	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970293		MASLD	T_NK_contaminant	21	S018	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970293		MASLD	cDC1	7	S018	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970293		MASLD	cDC2	5	S018	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970293		MASLD	cDC2_low_quality	7	S018	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970293		MASLD	pDC	6	S018	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970294		MASLD	Cycling_myeloid	5	S019	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970294		MASLD	FCGR3A_monocyte	2	S019	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970294		MASLD	FCN1_VCAN_monocyte	18	S019	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970294		MASLD	Kupffer	6	S019	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970294		MASLD	LAMP3_DC	5	S019	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970294		MASLD	Myeloid_ambiguous	1	S019	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970294		MASLD	TREM2_CD9_SAMac	17	S019	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970294		MASLD	T_NK_contaminant	52	S019	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970294		MASLD	cDC1	12	S019	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970294		MASLD	cDC2	10	S019	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970294		MASLD	cDC2_low_quality	6	S019	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970294		MASLD	pDC	5	S019	fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970295		healthy control	Cycling_myeloid	4	S020	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970295		healthy control	Endothelial_contaminant	23	S020	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970295		healthy control	FCGR3A_monocyte	21	S020	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970295		healthy control	FCN1_VCAN_monocyte	77	S020	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970295		healthy control	Kupffer	23	S020	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970295		healthy control	LAMP3_DC	4	S020	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970295		healthy control	Myeloid_ambiguous	4	S020	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970295		healthy control	TREM2_CD9_SAMac	14	S020	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970295		healthy control	T_NK_contaminant	65	S020	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970295		healthy control	cDC1	36	S020	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970295		healthy control	cDC2	94	S020	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970295		healthy control	cDC2_low_quality	29	S020	no fibrosis
+results/003_GSE344087_myeloid_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970295		healthy control	pDC	38	S020	no fibrosis
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556449	CTRL_1	Control	Activated_HSC	29		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556449	CTRL_1	Control	Endothelial_contaminant	17		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556449	CTRL_1	Control	Hepatocyte_contaminant	179		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556449	CTRL_1	Control	Hepatocyte_mito_contaminant	398		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556449	CTRL_1	Control	Macrophage_contaminant	14		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556449	CTRL_1	Control	Myofibroblast	12		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556449	CTRL_1	Control	Quiescent_HSC	5		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556449	CTRL_1	Control	T_cell_contaminant	14		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556450	CTRL_2	Control	Activated_HSC	187		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556450	CTRL_2	Control	Activated_HSC_acute_phase	4		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556450	CTRL_2	Control	Hepatocyte_contaminant	125		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556450	CTRL_2	Control	Hepatocyte_mito_contaminant	20		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556450	CTRL_2	Control	Macrophage_contaminant	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556450	CTRL_2	Control	Myofibroblast	29		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556450	CTRL_2	Control	Quiescent_HSC	3		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556450	CTRL_2	Control	T_cell_contaminant	2		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556451	CTRL_3	Control	Activated_HSC	37		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556451	CTRL_3	Control	Activated_HSC_acute_phase	2		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556451	CTRL_3	Control	Endothelial_contaminant	3		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556451	CTRL_3	Control	Hepatocyte_contaminant	46		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556451	CTRL_3	Control	Hepatocyte_mito_contaminant	8		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556451	CTRL_3	Control	Myofibroblast	28		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556451	CTRL_3	Control	T_cell_contaminant	5		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556452	NASH_1	NASH	Activated_HSC	2		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556452	NASH_1	NASH	Activated_HSC_acute_phase	4		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556452	NASH_1	NASH	Endothelial_contaminant	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556452	NASH_1	NASH	Macrophage_contaminant	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556452	NASH_1	NASH	Myofibroblast	25		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556452	NASH_1	NASH	Quiescent_HSC	308		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556453	NASH_1	NASH	Activated_HSC_acute_phase	5		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556453	NASH_1	NASH	Endothelial_contaminant	6		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556453	NASH_1	NASH	Hepatocyte_contaminant	3		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556453	NASH_1	NASH	Macrophage_contaminant	4		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556453	NASH_1	NASH	Myofibroblast	30		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556453	NASH_1	NASH	Quiescent_HSC	351		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556454	NASH_2	NASH	Activated_HSC	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556454	NASH_2	NASH	Endothelial_contaminant	2		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556454	NASH_2	NASH	Hepatocyte_contaminant	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556454	NASH_2	NASH	Macrophage_contaminant	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556454	NASH_2	NASH	Myofibroblast	7		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556454	NASH_2	NASH	Quiescent_HSC	98		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556455	NASH_2	NASH	Activated_HSC	4		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556455	NASH_2	NASH	Activated_HSC_acute_phase	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556455	NASH_2	NASH	Macrophage_contaminant	2		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556455	NASH_2	NASH	Myofibroblast	18		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556455	NASH_2	NASH	Quiescent_HSC	109		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556456	NASH_3	NASH	Activated_HSC	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556456	NASH_3	NASH	Hepatocyte_contaminant	4		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556456	NASH_3	NASH	Hepatocyte_mito_contaminant	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556456	NASH_3	NASH	Myofibroblast	4		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556456	NASH_3	NASH	Quiescent_HSC	67		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556457	NASH_3	NASH	Activated_HSC_acute_phase	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556457	NASH_3	NASH	Endothelial_contaminant	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556457	NASH_3	NASH	Hepatocyte_contaminant	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556457	NASH_3	NASH	Hepatocyte_mito_contaminant	2		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556457	NASH_3	NASH	Macrophage_contaminant	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556457	NASH_3	NASH	Myofibroblast	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556457	NASH_3	NASH	Quiescent_HSC	82		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556458	NASH_3	NASH	Activated_HSC_acute_phase	2		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556458	NASH_3	NASH	Endothelial_contaminant	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556458	NASH_3	NASH	Hepatocyte_contaminant	9		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556458	NASH_3	NASH	Hepatocyte_mito_contaminant	16		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556458	NASH_3	NASH	Macrophage_contaminant	2		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556458	NASH_3	NASH	Myofibroblast	2		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556458	NASH_3	NASH	Quiescent_HSC	93		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556458	NASH_3	NASH	T_cell_contaminant	2		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556459	NASH_4	NASH	Activated_HSC_acute_phase	4		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556459	NASH_4	NASH	Endothelial_contaminant	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556459	NASH_4	NASH	Hepatocyte_contaminant	3		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556459	NASH_4	NASH	Hepatocyte_mito_contaminant	3		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556459	NASH_4	NASH	Macrophage_contaminant	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556459	NASH_4	NASH	Myofibroblast	7		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556459	NASH_4	NASH	Quiescent_HSC	114		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556459	NASH_4	NASH	T_cell_contaminant	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556460	NASH_4	NASH	Activated_HSC	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556460	NASH_4	NASH	Activated_HSC_acute_phase	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556460	NASH_4	NASH	Endothelial_contaminant	2		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556460	NASH_4	NASH	Hepatocyte_contaminant	7		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556460	NASH_4	NASH	Hepatocyte_mito_contaminant	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556460	NASH_4	NASH	Myofibroblast	3		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556460	NASH_4	NASH	Quiescent_HSC	146		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556461	NASH_5	NASH	Macrophage_contaminant	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556461	NASH_5	NASH	Myofibroblast	2		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556461	NASH_5	NASH	Quiescent_HSC	79		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556462	NASH_5	NASH	Activated_HSC	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556462	NASH_5	NASH	Activated_HSC_acute_phase	6		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556462	NASH_5	NASH	Hepatocyte_contaminant	4		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556462	NASH_5	NASH	Hepatocyte_mito_contaminant	3		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556462	NASH_5	NASH	Macrophage_contaminant	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556462	NASH_5	NASH	Myofibroblast	7		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556462	NASH_5	NASH	Quiescent_HSC	89		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556462	NASH_5	NASH	T_cell_contaminant	2		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556463	NASH_6	NASH	Activated_HSC	26		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556463	NASH_6	NASH	Activated_HSC_acute_phase	5		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556463	NASH_6	NASH	Endothelial_contaminant	26		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556463	NASH_6	NASH	Hepatocyte_contaminant	258		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556463	NASH_6	NASH	Hepatocyte_mito_contaminant	239		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556463	NASH_6	NASH	Macrophage_contaminant	23		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556463	NASH_6	NASH	Myofibroblast	18		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556463	NASH_6	NASH	Quiescent_HSC	62		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556463	NASH_6	NASH	T_cell_contaminant	47		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556464	NASH_7	NASH	Activated_HSC	164		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556464	NASH_7	NASH	Activated_HSC_acute_phase	7		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556464	NASH_7	NASH	Hepatocyte_contaminant	148		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556464	NASH_7	NASH	Hepatocyte_mito_contaminant	9		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556464	NASH_7	NASH	Myofibroblast	18		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556464	NASH_7	NASH	Quiescent_HSC	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556464	NASH_7	NASH	T_cell_contaminant	2		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556465	NASH_8	NASH	Activated_HSC	2		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556465	NASH_8	NASH	Activated_HSC_acute_phase	653		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556465	NASH_8	NASH	Endothelial_contaminant	2		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556465	NASH_8	NASH	Hepatocyte_contaminant	52		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556465	NASH_8	NASH	Hepatocyte_mito_contaminant	21		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556465	NASH_8	NASH	Macrophage_contaminant	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556465	NASH_8	NASH	Myofibroblast	127		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556465	NASH_8	NASH	Quiescent_HSC	44		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556465	NASH_8	NASH	T_cell_contaminant	11		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556466	NASH_9	NASH	Activated_HSC_acute_phase	751		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556466	NASH_9	NASH	Endothelial_contaminant	1		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556466	NASH_9	NASH	Hepatocyte_contaminant	83		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556466	NASH_9	NASH	Hepatocyte_mito_contaminant	15		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556466	NASH_9	NASH	Macrophage_contaminant	6		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556466	NASH_9	NASH	Myofibroblast	144		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556466	NASH_9	NASH	Quiescent_HSC	43		
+results/004_GSE212837_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM6556466	NASH_9	NASH	T_cell_contaminant	19		
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859944		Healthy	Activated_HSC	2	FRPBiopsy_01_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859944		Healthy	Hepatocyte_contaminant	21	FRPBiopsy_01_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859944		Healthy	Macrophage_contaminant	1	FRPBiopsy_01_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859944		Healthy	Myofibroblast	8	FRPBiopsy_01_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859944		Healthy	Portal_fibroblast	34	FRPBiopsy_01_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859944		Healthy	Quiescent_HSC	154	FRPBiopsy_01_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859945		Healthy	Activated_HSC	19	FRPBiopsy_02_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859945		Healthy	Endothelial_contaminant	6	FRPBiopsy_02_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859945		Healthy	Hepatocyte_contaminant	139	FRPBiopsy_02_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859945		Healthy	Macrophage_contaminant	8	FRPBiopsy_02_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859945		Healthy	Myofibroblast	7	FRPBiopsy_02_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859945		Healthy	Portal_fibroblast	59	FRPBiopsy_02_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859945		Healthy	Quiescent_HSC	179	FRPBiopsy_02_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859946		Healthy	Activated_HSC	10	FRPBiopsy_03_Female_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859946		Healthy	Endothelial_contaminant	6	FRPBiopsy_03_Female_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859946		Healthy	Hepatocyte_contaminant	39	FRPBiopsy_03_Female_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859946		Healthy	Macrophage_contaminant	5	FRPBiopsy_03_Female_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859946		Healthy	Myofibroblast	43	FRPBiopsy_03_Female_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859946		Healthy	Portal_fibroblast	137	FRPBiopsy_03_Female_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859946		Healthy	Quiescent_HSC	130	FRPBiopsy_03_Female_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859947		Healthy	Activated_HSC	33	FRPBiopsy_04_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859947		Healthy	Endothelial_contaminant	6	FRPBiopsy_04_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859947		Healthy	Hepatocyte_contaminant	116	FRPBiopsy_04_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859947		Healthy	Macrophage_contaminant	9	FRPBiopsy_04_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859947		Healthy	Myofibroblast	17	FRPBiopsy_04_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859947		Healthy	Portal_fibroblast	116	FRPBiopsy_04_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859947		Healthy	Quiescent_HSC	170	FRPBiopsy_04_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859948		Healthy	Activated_HSC	16	FRPBiopsy_05_Female_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859948		Healthy	Endothelial_contaminant	3	FRPBiopsy_05_Female_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859948		Healthy	Hepatocyte_contaminant	79	FRPBiopsy_05_Female_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859948		Healthy	Macrophage_contaminant	4	FRPBiopsy_05_Female_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859948		Healthy	Myofibroblast	10	FRPBiopsy_05_Female_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859948		Healthy	Portal_fibroblast	26	FRPBiopsy_05_Female_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859948		Healthy	Quiescent_HSC	178	FRPBiopsy_05_Female_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859949		Healthy	Activated_HSC	2	FRPBiopsy_06_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859949		Healthy	Endothelial_contaminant	3	FRPBiopsy_06_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859949		Healthy	Hepatocyte_contaminant	17	FRPBiopsy_06_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859949		Healthy	Macrophage_contaminant	7	FRPBiopsy_06_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859949		Healthy	Portal_fibroblast	15	FRPBiopsy_06_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859949		Healthy	Quiescent_HSC	164	FRPBiopsy_06_Male_Healthy	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859950		MASLD	Activated_HSC	55	FRPBiopsy_07_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859950		MASLD	Endothelial_contaminant	8	FRPBiopsy_07_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859950		MASLD	Hepatocyte_contaminant	90	FRPBiopsy_07_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859950		MASLD	Macrophage_contaminant	19	FRPBiopsy_07_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859950		MASLD	Myofibroblast	20	FRPBiopsy_07_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859950		MASLD	Portal_fibroblast	264	FRPBiopsy_07_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859950		MASLD	Quiescent_HSC	135	FRPBiopsy_07_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859951		MASLD	Activated_HSC	12	FRPBiopsy_08_Male_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859951		MASLD	Endothelial_contaminant	6	FRPBiopsy_08_Male_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859951		MASLD	Hepatocyte_contaminant	75	FRPBiopsy_08_Male_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859951		MASLD	Macrophage_contaminant	6	FRPBiopsy_08_Male_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859951		MASLD	Myofibroblast	45	FRPBiopsy_08_Male_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859951		MASLD	Portal_fibroblast	206	FRPBiopsy_08_Male_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859951		MASLD	Quiescent_HSC	157	FRPBiopsy_08_Male_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859952		MASLD	Activated_HSC	15	FRPBiopsy_09_Male_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859952		MASLD	Endothelial_contaminant	10	FRPBiopsy_09_Male_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859952		MASLD	Hepatocyte_contaminant	121	FRPBiopsy_09_Male_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859952		MASLD	Macrophage_contaminant	9	FRPBiopsy_09_Male_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859952		MASLD	Myofibroblast	21	FRPBiopsy_09_Male_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859952		MASLD	Portal_fibroblast	227	FRPBiopsy_09_Male_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859952		MASLD	Quiescent_HSC	248	FRPBiopsy_09_Male_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859953		MASLD	Activated_HSC	16	FRPBiopsy_10_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859953		MASLD	Endothelial_contaminant	5	FRPBiopsy_10_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859953		MASLD	Hepatocyte_contaminant	28	FRPBiopsy_10_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859953		MASLD	Macrophage_contaminant	4	FRPBiopsy_10_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859953		MASLD	Myofibroblast	7	FRPBiopsy_10_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859953		MASLD	Portal_fibroblast	89	FRPBiopsy_10_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859953		MASLD	Quiescent_HSC	97	FRPBiopsy_10_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859954		MASLD	Activated_HSC	21	FRPBiopsy_11_Male_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859954		MASLD	Endothelial_contaminant	8	FRPBiopsy_11_Male_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859954		MASLD	Hepatocyte_contaminant	115	FRPBiopsy_11_Male_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859954		MASLD	Macrophage_contaminant	10	FRPBiopsy_11_Male_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859954		MASLD	Myofibroblast	21	FRPBiopsy_11_Male_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859954		MASLD	Portal_fibroblast	340	FRPBiopsy_11_Male_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859954		MASLD	Quiescent_HSC	197	FRPBiopsy_11_Male_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859955		MASLD	Activated_HSC	7	FRPBiopsy_12_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859955		MASLD	Endothelial_contaminant	1	FRPBiopsy_12_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859955		MASLD	Hepatocyte_contaminant	11	FRPBiopsy_12_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859955		MASLD	Macrophage_contaminant	2	FRPBiopsy_12_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859955		MASLD	Myofibroblast	20	FRPBiopsy_12_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859955		MASLD	Portal_fibroblast	118	FRPBiopsy_12_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859955		MASLD	Quiescent_HSC	110	FRPBiopsy_12_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859956		MASLD	Activated_HSC	42	FRPBiopsy_13_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859956		MASLD	Endothelial_contaminant	9	FRPBiopsy_13_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859956		MASLD	Hepatocyte_contaminant	159	FRPBiopsy_13_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859956		MASLD	Macrophage_contaminant	47	FRPBiopsy_13_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859956		MASLD	Myofibroblast	333	FRPBiopsy_13_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859956		MASLD	Portal_fibroblast	1098	FRPBiopsy_13_Female_MASLD	
+results/004_GSE298719_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9859956		MASLD	Quiescent_HSC	151	FRPBiopsy_13_Female_MASLD	
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970276		MASLD	Activated_HSC	5	S001	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970276		MASLD	Activated_HSC_stress	8	S001	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970276		MASLD	HSC_low_quality	9	S001	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970276		MASLD	Myofibroblast	6	S001	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970276		MASLD	Quiescent_HSC	6	S001	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970277		MASLD	Activated_HSC	2	S002	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970277		MASLD	HSC_low_quality	1	S002	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970277		MASLD	Myofibroblast	3	S002	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970277		MASLD	Quiescent_HSC	3	S002	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970278		MASLD	HSC_low_quality	1	S003	no fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970278		MASLD	Quiescent_HSC	2	S003	no fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970280		MASLD	Activated_HSC	8	S005	no fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970280		MASLD	HSC_low_quality	7	S005	no fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970280		MASLD	Myofibroblast	4	S005	no fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970280		MASLD	Quiescent_HSC	21	S005	no fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970281		MASLD	Activated_HSC	2	S006	no fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970283		MASLD	Activated_HSC	33	S008	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970283		MASLD	Activated_HSC_stress	18	S008	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970283		MASLD	HSC_low_quality	14	S008	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970283		MASLD	Myofibroblast	31	S008	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970283		MASLD	Quiescent_HSC	37	S008	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970284		MASLD	Activated_HSC	2	S009	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970284		MASLD	Quiescent_HSC	3	S009	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970286		MASLD	Myofibroblast	1	S011	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970286		MASLD	Quiescent_HSC	3	S011	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970287		MASLD	Activated_HSC	48	S012	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970287		MASLD	Activated_HSC_stress	34	S012	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970287		MASLD	HSC_low_quality	27	S012	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970287		MASLD	Myofibroblast	74	S012	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970287		MASLD	Quiescent_HSC	20	S012	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970288		MASLD	Activated_HSC	3	S013	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970288		MASLD	HSC_low_quality	4	S013	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970288		MASLD	Myofibroblast	2	S013	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970288		MASLD	Quiescent_HSC	1	S013	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970289		MASLD	Activated_HSC_stress	1	S014	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970289		MASLD	HSC_low_quality	4	S014	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970289		MASLD	Myofibroblast	3	S014	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970289		MASLD	Quiescent_HSC	17	S014	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970290		MASLD	Activated_HSC	19	S015	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970290		MASLD	Activated_HSC_stress	9	S015	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970290		MASLD	HSC_low_quality	11	S015	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970290		MASLD	Myofibroblast	15	S015	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970290		MASLD	Quiescent_HSC	15	S015	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970291		MASLD	Activated_HSC	3	S016	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970291		MASLD	Activated_HSC_stress	1	S016	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970291		MASLD	HSC_low_quality	3	S016	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970291		MASLD	Myofibroblast	7	S016	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970291		MASLD	Quiescent_HSC	2	S016	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970293		MASLD	Myofibroblast	1	S018	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970294		MASLD	Activated_HSC	2	S019	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970294		MASLD	Quiescent_HSC	1	S019	fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970295		healthy control	Activated_HSC	16	S020	no fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970295		healthy control	Activated_HSC_stress	1	S020	no fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970295		healthy control	HSC_low_quality	20	S020	no fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970295		healthy control	Myofibroblast	1	S020	no fibrosis
+results/004_GSE344087_hsc_sample_subtype_counts.tsv	sample × subtype	Descriptive cell counts; not independent patient replicates.	GSM9970295		healthy control	Quiescent_HSC	48	S020	no fibrosis

@@ -1,0 +1,43 @@
+{
+  "title": "SLAMF8-marked macrophage and HSC transcriptomic analysis in human MASLD",
+  "upload_type": "software",
+  "description": "Portable analysis code, processed figure-level Source Data, Supplementary Tables S1–S14, final PDF figures and reproducibility metadata supporting a cross-cohort human MASLD transcriptomic study. Third-party raw GEO data are not redistributed.",
+  "creators": [
+    {
+      "name": "Zheng, Bowen",
+      "affiliation": "Division of Hepatobiliary Pancreatic Surgery, The Affiliated Hospital of Yanbian University, Yanji 133000, China",
+      "orcid": "0009-0006-8304-7905"
+    },
+    {
+      "name": "Xie, Guanghua",
+      "affiliation": "Division of Hepatobiliary Pancreatic Surgery, The Affiliated Hospital of Yanbian University, Yanji 133000, China",
+      "orcid": "0000-0002-6461-6707"
+    },
+    {
+      "name": "Jin, Wangde",
+      "affiliation": "Division of Hepatobiliary Pancreatic Surgery, The Affiliated Hospital of Yanbian University, Yanji 133000, China",
+      "orcid": "0009-0004-3925-9957"
+    },
+    {
+      "name": "Li, Hao",
+      "affiliation": "Division of Hepatobiliary Pancreatic Surgery, The Affiliated Hospital of Yanbian University, Yanji 133000, China",
+      "orcid": "0009-0007-7394-1273"
+    }
+  ],
+  "keywords": [
+    "MASLD",
+    "MASH",
+    "single-cell RNA sequencing",
+    "macrophage",
+    "hepatic stellate cell",
+    "SLAMF8",
+    "SPP1",
+    "ferro-aging",
+    "transcriptomics"
+  ],
+  "access_right": "open",
+  "license": "other-open",
+  "version": "1.0.0",
+  "publication_date": "2026-09-29",
+  "language": "eng"
+}

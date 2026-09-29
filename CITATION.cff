@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software or processed dataset, please cite the archived release and associated article."
+title: "SLAMF8-marked macrophage and HSC transcriptomic analysis in human MASLD"
+type: software
+version: "1.0.0"
+date-released: "2026-09-29"
+license: MIT
+authors:
+  - family-names: Zheng
+    given-names: Bowen
+    orcid: "https://orcid.org/0009-0006-8304-7905"
+    email: "13803722355@163.com"
+  - family-names: Xie
+    given-names: Guanghua
+    orcid: "https://orcid.org/0000-0002-6461-6707"
+    email: "ghxie@ybu.edu.cn"
+  - family-names: Jin
+    given-names: Wangde
+    orcid: "https://orcid.org/0009-0004-3925-9957"
+    email: "wdjin1996@163.com"
+  - family-names: Li
+    given-names: Hao
+    orcid: "https://orcid.org/0009-0007-7394-1273"
+    email: "lih@ybu.edu.cn"
+abstract: >-
+  Portable analysis code, processed figure-level source data, supplementary tables and
+  reproducibility metadata for a cross-cohort transcriptomic study of a SLAMF8-marked
+  scar-associated macrophage program linked to hepatic stellate-cell activation and fibrosis in MASLD.
+keywords:
+  - MASLD
+  - macrophage
+  - hepatic stellate cell
+  - SLAMF8
+  - SPP1
+  - ferro-aging

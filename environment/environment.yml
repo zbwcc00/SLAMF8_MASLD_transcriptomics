@@ -1,0 +1,8 @@
+name: slamf8-masld
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.9
+  - pip
+  - pip:
+      - -r environment/requirements.txt

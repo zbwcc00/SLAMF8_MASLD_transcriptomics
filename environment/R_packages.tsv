@@ -1,0 +1,14 @@
+package	version	source_family
+R	4.4.3	R Project
+Matrix	1.7-5	CRAN
+SingleCellExperiment	1.28.1	Bioconductor
+scDblFinder	1.20.2	Bioconductor
+monocle3	1.4.27	GitHub/cole-trapnell-lab
+slingshot	2.14.0	Bioconductor
+tradeSeq	1.20.0	Bioconductor
+edgeR	4.4.2	Bioconductor
+liana	0.1.14	Bioconductor
+CellChat	1.6.1	GitHub/sqjin
+nichenetr	2.2.1.1	GitHub/saeyslab
+ggplot2	4.0.3	CRAN
+scuttle	1.16.0	Bioconductor

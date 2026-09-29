@@ -1,0 +1,12 @@
+accession	data_type	tissue	phenotype	analysis_unit	role_in_study	repository	persistent_url	redistributed_raw_data
+GSE212837	scRNA-seq	human liver	Control/NASH	patient-level single-cell	myeloid/HSC discovery	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE212837	no
+GSE298719	scRNA-seq	human liver biopsy	Healthy/MASLD	patient-level single-cell	communication/trajectory	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE298719	no
+GSE344087	scRNA-seq	human liver	no fibrosis/fibrosis	patient-level single-cell	myeloid/HSC discovery	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE344087	no
+GSE162694	bulk RNA-seq	human liver biopsy	NAFLD spectrum	biopsy/sample	fibrosis validation	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE162694	no
+GSE130970	bulk RNA-seq	human liver biopsy	NAFLD spectrum	biopsy/sample	fibrosis validation	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE130970	no
+GSE167523	bulk RNA-seq	human liver biopsy	NAFL/NASH	independent biopsy	external validation	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE167523	no
+GSE126848	bulk RNA-seq	human liver	NAFLD	scored sample	external validation	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE126848	no
+GSE193066	bulk RNA-seq	human liver biopsy	NAFLD longitudinal	paired visit	follow-up audit	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE193066	no
+GSE281797	bulk RNA-seq	human liver	MASL/MASH	sample	additional validation	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE281797	no
+GSE83452	bulk RNA-seq	human liver	NASH intervention follow-up	paired follow-up	intervention audit	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE83452	no
+GSE192741	spatial transcriptomics (Visium)	human liver	healthy/steatotic	spot-level exploratory audit	independent spatial context	NCBI Gene Expression Omnibus	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE192741	no

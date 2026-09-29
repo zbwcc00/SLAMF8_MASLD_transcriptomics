@@ -1,0 +1,18 @@
+figure	location	text_exit	auditable_text	min_font_pt	below_5pt	text_warnings	collision_exit	collision_verdict	collision_fail	collision_warn	contained_fill	contained_image	message
+Figure_1	Main	0	True	7.0	0	0	0	PASS	0	0	0	0	
+Figure_2	Main	0	True	6.3	0	0	0	PASS	0	0	98	0	
+Figure_3	Main	0	True	6.0	0	0	0	PASS	0	0	0	0	
+Figure_4	Main	0	True	5.2	0	0	0	PASS	0	0	35	0	
+Figure_5	Main	0	True	5.2	0	0	0	PASS	0	0	28	0	
+Figure_S1	Supplementary	0	True	5.0	0	0	0	PASS	0	0	71	0	
+Figure_S10	Supplementary	0	True	5.6	0	0	0	PASS	0	0	0	0	
+Figure_S11	Supplementary	0	True	7.4	0	0	0	PASS	0	0	48	0	
+Figure_S12	Supplementary	0	True	7.5	0	0	0	PASS	0	0	36	0	
+Figure_S2	Supplementary	0	True	7.0	0	0	0	PASS	0	0	0	0	
+Figure_S3	Supplementary	0	True	7.2	0	0	0	PASS	0	0	0	0	
+Figure_S4	Supplementary	0	True	6.5	0	0	0	PASS	0	0	0	0	
+Figure_S5	Supplementary	0	True	8.0	0	0	0	PASS	0	0	0	0	
+Figure_S6	Supplementary	0	True	7.2	0	0	0	PASS	0	0	0	0	
+Figure_S7	Supplementary	0	True	9.68	0	0	0	PASS	0	0	56	0	
+Figure_S8	Supplementary	0	True	5.2	0	0	0	PASS	0	0	0	0	
+Figure_S9	Supplementary	0	True	5.7	0	0	0	PASS	0	0	0	0	
