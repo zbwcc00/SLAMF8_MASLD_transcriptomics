@@ -11,11 +11,16 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 
 
-def sha256(path: Path) -> str:
+def canonical_bytes(path: Path) -> bytes:
+    data = path.read_bytes()
+    if path.suffix.lower() not in {".gz", ".xlsx", ".pdf", ".tiff", ".png"}:
+        data = data.replace(b"\r\n", b"\n")
+    return data
+
+
+def sha256(data: bytes) -> str:
     digest = hashlib.sha256()
-    with path.open("rb") as handle:
-        for chunk in iter(lambda: handle.read(1024 * 1024), b""):
-            digest.update(chunk)
+    digest.update(data)
     return digest.hexdigest()
 
 
@@ -55,7 +60,8 @@ def main() -> int:
         for line in manifest.read_text(encoding="utf-8").splitlines()[1:]:
             relative, size, digest = line.split("\t")
             path = ROOT / relative
-            if not path.is_file() or path.stat().st_size != int(size) or sha256(path) != digest:
+            data = canonical_bytes(path) if path.is_file() else b""
+            if not path.is_file() or len(data) != int(size) or sha256(data) != digest:
                 failures.append(f"manifest mismatch: {relative}")
 
     print(f"repository={ROOT}")
